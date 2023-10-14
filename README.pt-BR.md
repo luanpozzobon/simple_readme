@@ -2,7 +2,7 @@
 <p align="center">Project simple description</p>
 
 ![Static Badge](https://img.shields.io/badge/versão-1.0.0-blue)
-[![Static Badge](https://img.shields.io/badge/licensa-GPL_3.0-blue)](./LICENSE)
+[![Static Badge](https://img.shields.io/badge/licensa-MIT-blue)](./LICENSE)
 ![Static Badge](https://img.shields.io/badge/%C3%9altima%20atualiza%C3%A7%C3%A3o-23%2F09%2F2023-blue)
 
 <p align="center">
